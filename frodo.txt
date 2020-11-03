@@ -1,0 +1,4 @@
+if destroy_ring 
+    then remember_taste_of_strawberries
+
+    
